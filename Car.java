@@ -18,11 +18,11 @@ public class Car {
       return speed;
   }
   public void accelerate( ){
-      speed+=5;
+      speed+=3;
   }
 
   public void brake(){
-      speed-=5;
+      speed-=3;
   }
 
 }
